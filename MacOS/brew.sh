@@ -34,6 +34,8 @@ brew install tree
 installApps()
 {
   banner "Installing MacOS Applications"
+  # Tools for building Android applications
+  brew cask install android-studio
   # Open-source electronics prototyping platform
   brew cask install arduino
   # Tool to flash OS images to SD cards & USB drives
@@ -46,8 +48,12 @@ installApps()
   brew cask install gimp
   # Desktop client for GitHub repositories
   brew cask install github
+  # Collaboration platform for API development
+  brew cask install postman
   # Software sketchbook and a language for learning how to code within the context of the visual arts. 
   brew cask install processing
+  # The ultimate destination for playing, discussing, and creating games.
+  brew cask install steam
   # A powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use
   brew cask install virtualbox
   # Open-source code editor
