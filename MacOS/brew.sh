@@ -23,17 +23,39 @@ command -v brew >/dev/null 2>&1 || {
 
 # Install Brew Packages
 banner "Installing Homebrew Packages"
+# Dependency manager for Cocoa projects
 brew install cocoapods
+# Interpreted, interactive, object-oriented programming language
 brew install python
+# Display directories as trees (with optional color/HTML output)
 brew install tree
 
 # Install MacOS Applications
 installApps()
 {
   banner "Installing MacOS Applications"
+  # Open-source electronics prototyping platform
   brew cask install arduino
+  # Tool to flash OS images to SD cards & USB drives
+  brew cask install balenaetcher
+  # Voice and text chat software
+  brew cask install discord
+  # Launcher for *Epic Games* games
+  brew cask install epic-games
+  # Free and open-source image editor
   brew cask install gimp
+  # Desktop client for GitHub repositories
+  brew cask install github
+  # Software sketchbook and a language for learning how to code within the context of the visual arts. 
+  brew cask install processing
+  # A powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use
   brew cask install virtualbox
+  # Open-source code editor
+  brew cask install visual-studio-code
+  # Remote desktop application focusing on security
+  brew cask install vnc-viewer
+  # Video communication and virtual meeting platform
+  brew cask install zoomus
 }
 
 _prompt="Do you wish to install the MacOS Applications [y/n] ?"
