@@ -52,6 +52,8 @@ installApps()
   brew cask install virtualbox
   # Open-source code editor
   brew cask install visual-studio-code
+  # Open-source cross-platform multimedia player
+  brew cask install vlc
   # Remote desktop application focusing on security
   brew cask install vnc-viewer
   # Video communication and virtual meeting platform
