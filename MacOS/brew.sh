@@ -36,6 +36,10 @@ brew install youtube-dl
 installApps()
 {
   banner "Installing MacOS Applications"
+
+  # Helps correct any issues there may be with the cask module 
+  brew cask doctor
+
   # Tools for building Android applications
   brew cask install android-studio
   # Open-source electronics prototyping platform
