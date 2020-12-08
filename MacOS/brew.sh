@@ -41,35 +41,37 @@ installApps()
   brew cask doctor
 
   # Tools for building Android applications
-  brew cask install android-studio
+  brew install --cask android-studio
   # Open-source electronics prototyping platform
-  brew cask install arduino
+  brew install --cask arduino
   # Tool to flash OS images to SD cards & USB drives
-  brew cask install balenaetcher
+  brew install --cask balenaetcher
   # Voice and text chat software
-  brew cask install discord
+  brew install --cask discord
   # Launcher for *Epic Games* games
-  brew cask install epic-games
+  brew install --cask epic-games
   # Free and open-source image editor
-  brew cask install gimp
+  brew install --cask gimp
   # Desktop client for GitHub repositories
-  brew cask install github
+  brew install --cask github
+  # Organize your projects with customizable templates
+  brew install --cask post-haste
   # Collaboration platform for API development
-  brew cask install postman
+  brew install --cask postman
   # Software sketchbook and a language for learning how to code within the context of the visual arts. 
-  brew cask install processing
+  brew install --cask processing
   # The ultimate destination for playing, discussing, and creating games.
-  brew cask install steam
+  brew install --cask steam
   # A powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use
-  brew cask install virtualbox
+  brew install --cask virtualbox
   # Open-source code editor
-  brew cask install visual-studio-code
+  brew install --cask visual-studio-code
   # Open-source cross-platform multimedia player
-  brew cask install vlc
+  brew install --cask vlc
   # Remote desktop application focusing on security
-  brew cask install vnc-viewer
+  brew install --cask vnc-viewer
   # Video communication and virtual meeting platform
-  brew cask install zoomus
+  brew install --cask zoomus
 }
 
 _prompt="Do you wish to install the MacOS Applications [y/n] ?"
