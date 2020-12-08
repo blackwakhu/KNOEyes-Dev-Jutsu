@@ -70,6 +70,8 @@ installApps()
   brew install --cask vlc
   # Remote desktop application focusing on security
   brew install --cask vnc-viewer
+  # Wordpress client
+  brew install --cask wordpresscom
   # Video communication and virtual meeting platform
   brew install --cask zoomus
 }
