@@ -46,6 +46,8 @@ installApps()
   brew install --cask arduino
   # Tool to flash OS images to SD cards & USB drives
   brew install --cask balenaetcher
+  # Desktop password and login vault
+  brew install --cask bitwarden
   # Voice and text chat software
   brew install --cask discord
   # Launcher for *Epic Games* games
