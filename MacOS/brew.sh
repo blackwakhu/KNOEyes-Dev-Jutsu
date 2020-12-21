@@ -70,6 +70,8 @@ installApps()
   brew install --cask vlc
   # Remote desktop application focusing on security
   brew install --cask vnc-viewer
+  # Wireshark - Network protocol analyzer
+  brew install --cask wireshark
   # Wordpress client
   brew install --cask wordpresscom
   # Video communication and virtual meeting platform
