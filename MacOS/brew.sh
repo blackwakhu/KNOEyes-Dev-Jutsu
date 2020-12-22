@@ -40,6 +40,8 @@ installApps()
   # Helps correct any issues there may be with the cask module 
   brew cask doctor
 
+  # Transfer files from and to an Android smartphone
+  brew install --cask android-file-transfer
   # Tools for building Android applications
   brew install --cask android-studio
   # Open-source electronics prototyping platform
