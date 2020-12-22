@@ -54,6 +54,8 @@ installApps()
   brew install --cask brave-browser
   # Voice and text chat software
   brew install --cask discord
+  # Client for the Dropbox cloud storage service
+  brew install --cask dropbox
   # Launcher for *Epic Games* games
   brew install --cask epic-games
   # Free and open-source image editor
