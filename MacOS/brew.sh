@@ -48,6 +48,8 @@ installApps()
   brew install --cask balenaetcher
   # Desktop password and login vault
   brew install --cask bitwarden
+  # Web browser focusing on privacy
+  brew install --cask brave-browser
   # Voice and text chat software
   brew install --cask discord
   # Launcher for *Epic Games* games
@@ -77,7 +79,7 @@ installApps()
   # Wordpress client
   brew install --cask wordpresscom
   # Video communication and virtual meeting platform
-  brew install --cask zoomus
+  brew install --cask zoom
 }
 
 _prompt="Do you wish to install the MacOS Applications [y/n] ?"
