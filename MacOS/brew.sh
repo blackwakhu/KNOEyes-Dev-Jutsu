@@ -62,6 +62,8 @@ installApps()
   brew install --cask gimp
   # Desktop client for GitHub repositories
   brew install --cask github
+  # Oracle Java Standard Edition Development Kit
+  brew install --cask oracle-jdk
   # Organize your projects with customizable templates
   brew install --cask post-haste
   # Collaboration platform for API development
