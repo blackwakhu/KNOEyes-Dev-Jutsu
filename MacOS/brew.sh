@@ -36,7 +36,7 @@ installApps()
   banner "Installing MacOS Applications"
 
   # Helps correct any issues there may be with the cask module 
-  brew cask doctor
+  brew doctor
 
   # Transfer files from and to an Android smartphone
   brew install --cask android-file-transfer
