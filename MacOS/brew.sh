@@ -56,6 +56,8 @@ installApps()
   brew install --cask dropbox
   # Launcher for *Epic Games* games
   brew install --cask epic-games
+  # Fritzing
+  brew install --cask fritzing
   # Free and open-source image editor
   brew install --cask gimp
   # Desktop client for GitHub repositories
