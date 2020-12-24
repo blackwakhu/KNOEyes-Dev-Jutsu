@@ -29,8 +29,6 @@ brew install cocoapods
 brew install python
 # Display directories as trees (with optional color/HTML output)
 brew install tree
-# Command-line program to download videos from YouTube.com and a few more sites.
-brew install youtube-dl
 
 # Install MacOS Applications
 installApps()
