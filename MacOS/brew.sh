@@ -21,6 +21,10 @@ command -v brew >/dev/null 2>&1 || {
     \/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"; 
 }
 
+banner "Installing Apple Command Line Tools"
+# Install Apple Command Line Tools
+xcode-select --install
+
 # Install Brew Packages
 banner "Installing Homebrew Packages"
 # Dependency manager for Cocoa projects
