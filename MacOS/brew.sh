@@ -33,6 +33,8 @@ brew install cocoapods
 brew install python
 # Display directories as trees (with optional color/HTML output)
 brew install tree
+# Download YouTube videos from the command-line
+brew install youtube-dl
 
 # Install MacOS Applications
 installApps()
