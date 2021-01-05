@@ -56,6 +56,8 @@ installApps()
   brew install --cask bitwarden
   # Web browser focusing on privacy
   brew install --cask brave-browser
+  # Photography workflow application and raw developer
+  brew install --cask darktable
   # Voice and text chat software
   brew install --cask discord
   # Client for the Dropbox cloud storage service
