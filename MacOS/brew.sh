@@ -80,6 +80,8 @@ installApps()
   brew install --cask postman
   # Software sketchbook and a language for learning how to code within the context of the visual arts. 
   brew install --cask processing
+  # Raspberry Pi Imager
+  brew install --cask raspberry-pi-imager
   # The ultimate destination for playing, discussing, and creating games.
   brew install --cask steam
   # A powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use
