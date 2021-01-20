@@ -74,6 +74,8 @@ installApps()
   brew install --cask github
   # Oracle Java Standard Edition Development Kit
   brew install --cask oracle-jdk
+  # 2D sprite editor made with the Godot Engine
+  brew install --cask pixelorama
   # Organize your projects with customizable templates
   brew install --cask post-haste
   # Collaboration platform for API development
@@ -84,8 +86,8 @@ installApps()
   brew install --cask raspberry-pi-imager
   # The ultimate destination for playing, discussing, and creating games.
   brew install --cask steam
-  # A powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use
-  brew install --cask virtualbox
+  # TexturePacker - Tool For Handling Sprites Used In My Game Development
+  brew install --cask texturepacker
   # Open-source code editor
   brew install --cask visual-studio-code
   # Open-source cross-platform multimedia player
