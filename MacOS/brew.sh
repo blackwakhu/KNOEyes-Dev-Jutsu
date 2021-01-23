@@ -64,6 +64,8 @@ installApps()
   brew install --cask dropbox
   # Launcher for *Epic Games* games
   brew install --cask epic-games
+  # Figma
+  brew install --cask figma
   # UI toolkit for building applications for mobile, web and desktop
   brew install --cask flutter
   # Fritzing
