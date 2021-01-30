@@ -90,6 +90,8 @@ installApps()
   brew install --cask steam
   # TexturePacker - Tool For Handling Sprites Used In My Game Development
   brew install --cask texturepacker
+  # Platform for 3D content
+  brew install --cask unity
   # Open-source code editor
   brew install --cask visual-studio-code
   # Open-source cross-platform multimedia player
