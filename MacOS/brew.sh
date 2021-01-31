@@ -94,6 +94,10 @@ installApps()
   brew install --cask unity
   # Management tool for Unity
   brew install --cask unity-hub
+  # Android target support for Unity
+  brew install --cask unity-android-support-for-editor
+  # iOS target support for Unity
+  brew install --cask unity-ios-support-for-editor
   # Open-source code editor
   brew install --cask visual-studio-code
   # Open-source cross-platform multimedia player
