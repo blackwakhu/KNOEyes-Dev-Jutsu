@@ -58,6 +58,8 @@ installApps()
   brew install --cask brave-browser
   # Photography workflow application and raw developer
   brew install --cask darktable
+  # App to build and share containerized applications and microservices
+  brew install --cask docker
   # Voice and text chat software
   brew install --cask discord
   # Client for the Dropbox cloud storage service
