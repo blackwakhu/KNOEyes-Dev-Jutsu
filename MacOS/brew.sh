@@ -29,6 +29,8 @@ xcode-select --install
 banner "Installing Homebrew Packages"
 # Dependency manager for Cocoa projects
 brew install cocoapods
+# Open-source build automation tool based on the Groovy and Kotlin DSL
+brew install gradle
 # Interpreted, interactive, object-oriented programming language
 brew install python
 # Display directories as trees (with optional color/HTML output)
