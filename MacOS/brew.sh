@@ -92,6 +92,8 @@ installApps()
   brew install --cask processing
   # Raspberry Pi Imager
   brew install --cask raspberry-pi-imager
+  # Music streaming service
+  brew install --cask spotify
   # The ultimate destination for playing, discussing, and creating games.
   brew install --cask steam
   # TexturePacker - Tool For Handling Sprites Used In My Game Development
