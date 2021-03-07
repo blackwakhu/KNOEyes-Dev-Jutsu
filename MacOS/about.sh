@@ -7,7 +7,7 @@
 #Email         	:komyonga@gmail.com                                    
 #Website        :https://kevinomyonga.com                              
 #Date         	:Sun Nov  1 17:15:50 EAT 2020                          
-#Version        :0.1
+#Version        :1.0.0
 #######################################################################
 
 about()
