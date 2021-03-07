@@ -35,6 +35,8 @@ brew install gradle
 brew install python
 # Display directories as trees (with optional color/HTML output)
 brew install tree
+# Vi 'workalike' with many additional features
+brew install vim
 # Download YouTube videos from the command-line
 brew install youtube-dl
 
