@@ -82,6 +82,8 @@ installApps()
   brew install --cask github
   # Google Chrome Web browser
   brew install --cask google-chrome
+  # Vector graphics editor
+  brew install --cask inkscape
   # Oracle Java Standard Edition Development Kit
   brew install --cask oracle-jdk
   # 2D sprite editor made with the Godot Engine
