@@ -120,6 +120,8 @@ installApps()
   brew install --cask wireshark
   # Wordpress client
   brew install --cask wordpresscom
+  # Xampp - Web development solution with Apache, PHP, Perl & MySQL
+  brew install --cask xampp
   # Video communication and virtual meeting platform
   brew install --cask zoom
 }
