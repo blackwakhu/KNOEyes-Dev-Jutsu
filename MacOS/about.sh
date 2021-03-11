@@ -21,7 +21,7 @@ about()
   echo "#Email         	:komyonga@gmail.com"                                    
   echo "#Website        :https://kevinomyonga.com"
   echo "#Date         	:Sun Nov  1 17:15:50 EAT 2020"
-  echo "#Version        :0.1"
+  echo "#Version        :1.0.0"
   echo "#######################################################################"
   echo ""
 }
