@@ -60,6 +60,8 @@ installApps()
   brew install --cask bitwarden
   # Web browser focusing on privacy
   brew install --cask brave-browser
+  # Server and cloud storage browser
+  brew install --cask cyberduck
   # Photography workflow application and raw developer
   brew install --cask darktable
   # App to build and share containerized applications and microservices
