@@ -86,6 +86,8 @@ installApps()
   brew install --cask google-chrome
   # Vector graphics editor
   brew install --cask inkscape
+  # WordPress local development tool by Flywheel
+  brew install --cask local
   # Oracle Java Standard Edition Development Kit
   brew install --cask oracle-jdk
   # 2D sprite editor made with the Godot Engine
