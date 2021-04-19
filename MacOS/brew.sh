@@ -106,6 +106,8 @@ installApps()
   brew install --cask steam
   # TexturePacker - Tool For Handling Sprites Used In My Game Development
   brew install --cask texturepacker
+  # Web browser focusing on security
+  brew install --cask tor-browser
   # Platform for 3D content
   brew install --cask unity
   # Management tool for Unity
