@@ -1,13 +1,15 @@
 #!/usr/bin/env bash
 
 #######################################################################
-#Script Name	:brew.sh                                             
-#Description	:Install Homebrew, Packages, Applications                                 
-#Author       	:Kevin Omyonga (Dr. KNO)                               
-#Email         	:komyonga@gmail.com                                    
-#Website        :https://kevinomyonga.com                              
-#Date         	:Sun Nov  1 17:15:50 EAT 2020                          
-#Version        :1.0.0
+#Script Name	    :brew.sh                                             
+#Description	    :Install Homebrew, Packages, Applications                                 
+#Author       	  :Kevin Omyonga (Dr. KNO)                               
+#Email         	  :info@kevinomyonga.com                                    
+#Website          :https://kevinomyonga.com                               
+#Company Email    :info@knoeyes.com                                    
+#Company Website  :https://knoeyes.com                              
+#Date         	  :Sun Nov  1 17:15:50 EAT 2020                          
+#Version          :1.0.0
 #######################################################################
 
 # Import Banner Script
@@ -31,6 +33,8 @@ banner "Installing Homebrew Packages"
 brew install cocoapods
 # Open-source build automation tool based on the Groovy and Kotlin DSL
 brew install gradle
+# Platform built on V8 to build network applications
+brew install node
 # Object-relational database system
 brew install postgresql
 # Interpreted, interactive, object-oriented programming language

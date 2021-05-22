@@ -1,14 +1,16 @@
 #!/usr/bin/env bash
 
 #######################################################################
-#Script Name	:banner.sh                                             
-#Description	:Displays banners for clean, standardised presentation
-#Args           :Section Message                                                      
-#Author       	:Kevin Omyonga (Dr. KNO)                               
-#Email         	:komyonga@gmail.com                                    
-#Website        :https://kevinomyonga.com                              
-#Date         	:Sun Nov  1 17:15:50 EAT 2020
-#Version        :1.0.0
+#Script Name	    :banner.sh                                             
+#Description	    :Displays banners for clean, standardised presentation
+#Args             :Section Message                                 
+#Author       	  :Kevin Omyonga (Dr. KNO)                               
+#Email         	  :info@kevinomyonga.com                                    
+#Website          :https://kevinomyonga.com                               
+#Company Email    :info@knoeyes.com                                    
+#Company Website  :https://knoeyes.com                              
+#Date         	  :Sun Nov  1 17:15:50 EAT 2020
+#Version          :1.0.0
 #######################################################################
 
 # Display Banner Logo
