@@ -136,6 +136,9 @@ installApps()
   brew install --cask xampp
   # Video communication and virtual meeting platform
   brew install --cask zoom
+
+  # Clean up installation files to preserve precious storage space
+  brew cleanup
 }
 
 _prompt="Do you wish to install the MacOS Applications [y/n] ?"
