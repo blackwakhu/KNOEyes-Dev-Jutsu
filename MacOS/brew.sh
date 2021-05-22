@@ -31,6 +31,8 @@ banner "Installing Homebrew Packages"
 brew install cocoapods
 # Open-source build automation tool based on the Groovy and Kotlin DSL
 brew install gradle
+# Object-relational database system
+brew install postgresql
 # Interpreted, interactive, object-oriented programming language
 brew install python
 # Display directories as trees (with optional color/HTML output)
