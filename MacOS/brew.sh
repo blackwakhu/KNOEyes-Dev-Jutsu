@@ -134,6 +134,8 @@ installApps()
   brew install --cask wordpresscom
   # Xampp - Web development solution with Apache, PHP, Perl & MySQL
   brew install --cask xampp
+  # Multi-platform graphical interface for official Nmap Security Scanner
+  brew install --cask zenmap
   # Video communication and virtual meeting platform
   brew install --cask zoom
 
