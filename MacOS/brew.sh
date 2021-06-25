@@ -33,6 +33,10 @@ banner "Installing Homebrew Packages"
 brew install cocoapods
 # Open-source build automation tool based on the Groovy and Kotlin DSL
 brew install gradle
+# Kubernetes command-line interface
+brew install kubernetes-cli
+# Run a Kubernetes cluster locally
+brew install minikube
 # Platform built on V8 to build network applications
 brew install node
 # Object-relational database system
