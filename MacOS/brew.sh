@@ -31,6 +31,8 @@ xcode-select --install
 banner "Installing Homebrew Packages"
 # Dependency manager for Cocoa projects
 brew install cocoapods
+# Open source programming language to build simple/reliable/efficient software
+brew install go
 # Open-source build automation tool based on the Groovy and Kotlin DSL
 brew install gradle
 # Kubernetes command-line interface
