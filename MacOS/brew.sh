@@ -43,6 +43,8 @@ brew install minikube
 brew install node
 # Object-relational database system
 brew install postgresql
+# Framework for managing multi-language pre-commit hooks
+brew install pre-commit
 # Interpreted, interactive, object-oriented programming language
 brew install python
 # Display directories as trees (with optional color/HTML output)
