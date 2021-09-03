@@ -102,6 +102,8 @@ installApps()
   brew install --cask local
   # Oracle Java Standard Edition Development Kit
   brew install --cask oracle-jdk
+  # Administration and development platform for PostgreSQL
+  brew install --cask pgadmin4
   # Organize your projects with customizable templates
   brew install --cask post-haste
   # Collaboration platform for API development
