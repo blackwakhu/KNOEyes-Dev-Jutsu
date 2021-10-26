@@ -64,6 +64,10 @@ installApps()
 
   # Transfer files from and to an Android smartphone
   brew install --cask android-file-transfer
+  # Android SDK Command-line Tools
+  brew install --cask android-commandlinetools
+  # Android SDK component
+  brew install --cask android-platform-tools
   # Tools for building Android applications
   brew install --cask android-studio
   # Open-source electronics prototyping platform
