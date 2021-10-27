@@ -118,6 +118,8 @@ installApps()
   brew install --cask processing
   # Raspberry Pi Imager
   brew install --cask raspberry-pi-imager
+  # Instant messaging application focusing on security
+  brew install --cask signal
   # Music streaming service
   brew install --cask spotify
   # The ultimate destination for playing, discussing, and creating games.
