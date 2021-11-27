@@ -122,6 +122,8 @@ installApps()
   brew install --cask raspberry-pi-imager
   # Instant messaging application focusing on security
   brew install --cask signal
+  # Create and share augmented reality experiences using the Facebook family of apps
+  brew install --cask spark-ar-studio
   # Music streaming service
   brew install --cask spotify
   # The ultimate destination for playing, discussing, and creating games.
