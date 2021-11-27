@@ -82,10 +82,12 @@ installApps()
   brew install --cask cyberduck
   # Photography workflow application and raw developer
   brew install --cask darktable
-  # App to build and share containerized applications and microservices
-  brew install --cask docker
   # Voice and text chat software
   brew install --cask discord
+  # App to build and share containerized applications and microservices
+  brew install --cask docker
+  # .NET SDK Developer platform
+  brew install --cask dotnet-sdk
   # Client for the Dropbox cloud storage service
   brew install --cask dropbox
   # Launcher for *Epic Games* games
