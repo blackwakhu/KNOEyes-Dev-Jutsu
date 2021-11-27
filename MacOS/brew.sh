@@ -134,6 +134,8 @@ installApps()
   brew install --cask unity-android-support-for-editor
   # iOS target support for Unity
   brew install --cask unity-ios-support-for-editor
+  # Microsoft Visual Studio Integrated development environment
+  brew install --cask visual-studio
   # Open-source code editor
   brew install --cask visual-studio-code
   # Open-source cross-platform multimedia player
