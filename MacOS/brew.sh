@@ -78,6 +78,8 @@ installApps()
   brew install --cask bitwarden
   # Web browser focusing on privacy
   brew install --cask brave-browser
+  # Tool to show live information about the batteries in various devices
+  brew install --cask coconutbattery
   # Server and cloud storage browser
   brew install --cask cyberduck
   # Photography workflow application and raw developer
