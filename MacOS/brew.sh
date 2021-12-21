@@ -20,7 +20,7 @@ banner "Checking Homebrew install status"
 command -v brew >/dev/null 2>&1 || { 
   banner "Installing Homebrew Now"
     echo >&2 "Installing Homebrew Now"; 
-    \/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"; 
+    \/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"; 
 }
 
 banner "Installing Apple Command Line Tools"
@@ -78,6 +78,8 @@ installApps()
   brew install --cask bitwarden
   # Web browser focusing on privacy
   brew install --cask brave-browser
+  # Productivity platform for tasks, docs, goals, and chat
+  brew install --cask clickup
   # Tool to show live information about the batteries in various devices
   brew install --cask coconutbattery
   # Server and cloud storage browser
