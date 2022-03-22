@@ -41,6 +41,8 @@ brew install kubernetes-cli
 brew install minikube
 # Platform built on V8 to build network applications
 brew install node
+# Adds support for geographic objects to PostgreSQL
+brew install postgis
 # Object-relational database system
 brew install postgresql
 # Framework for managing multi-language pre-commit hooks
