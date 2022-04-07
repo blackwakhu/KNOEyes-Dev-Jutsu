@@ -74,6 +74,8 @@ installApps()
   brew install --cask android-studio
   # Open-source electronics prototyping platform
   brew install --cask arduino
+  # Data management tool that enables working with SQL Server
+  brew install --cask azure-data-studio
   # Tool to flash OS images to SD cards & USB drives
   brew install --cask balenaetcher
   # Desktop password and login vault
