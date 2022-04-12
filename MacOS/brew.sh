@@ -64,6 +64,8 @@ installApps()
   # Helps correct any issues there may be with the cask module 
   brew doctor
 
+  # GraphQL client
+  brew install --cask altair-graphql-client
   # Transfer files from and to an Android smartphone
   brew install --cask android-file-transfer
   # Android SDK Command-line Tools
