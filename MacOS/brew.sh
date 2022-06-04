@@ -44,9 +44,9 @@ brew install minikube
 # Platform built on V8 to build network applications
 brew install node
 # Adds support for geographic objects to PostgreSQL
-brew install postgis
+#brew install postgis
 # Object-relational database system
-brew install postgresql
+#brew install postgresql
 # Framework for managing multi-language pre-commit hooks
 brew install pre-commit
 # Interpreted, interactive, object-oriented programming language
@@ -56,7 +56,7 @@ brew install tree
 # Vi 'workalike' with many additional features
 brew install vim
 # Download YouTube videos from the command-line
-brew install youtube-dl
+#brew install youtube-dl
 
 # Install MacOS Applications
 installApps()
@@ -123,7 +123,7 @@ installApps()
   # Oracle Java Standard Edition Development Kit
   brew install --cask oracle-jdk
   # Administration and development platform for PostgreSQL
-  brew install --cask pgadmin4
+  #brew install --cask pgadmin4
   # Organize your projects with customizable templates
   brew install --cask post-haste
   # Collaboration platform for API development
