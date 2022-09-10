@@ -130,6 +130,8 @@ installApps()
   brew install --cask postman
   # Software sketchbook and a language for learning how to code within the context of the visual arts. 
   brew install --cask processing
+  # IDE for Python programming - Community Edition
+  brew install --cask pycharm-ce
   # Raspberry Pi Imager
   brew install --cask raspberry-pi-imager
   # Instant messaging application focusing on security
