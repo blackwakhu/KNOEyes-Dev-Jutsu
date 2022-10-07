@@ -31,6 +31,8 @@ xcode-select --install
 banner "Installing Homebrew Packages"
 # Dependency manager for Cocoa projects
 brew install cocoapods
+# Easiest way to build and release mobile apps
+brew install fastlane
 # Distributed revision control system
 brew install git
 # Open source programming language to build simple/reliable/efficient software
