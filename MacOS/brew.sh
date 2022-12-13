@@ -122,6 +122,8 @@ installApps()
   brew install --cask inkscape
   # WordPress local development tool by Flywheel
   brew install --cask local
+  # Microsoft Edge
+  brew install --cask microsoft-edge
   # Oracle Java Standard Edition Development Kit
   brew install --cask oracle-jdk
   # Administration and development platform for PostgreSQL
