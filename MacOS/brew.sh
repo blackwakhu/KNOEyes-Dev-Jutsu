@@ -138,6 +138,8 @@ installApps()
   brew install --cask pycharm-ce
   # Raspberry Pi Imager
   brew install --cask raspberry-pi-imager
+  # Design tool that creates functional graphics
+  brew install --cask rive
   # Instant messaging application focusing on security
   brew install --cask signal
   # Create and share augmented reality experiences using the Facebook family of apps
