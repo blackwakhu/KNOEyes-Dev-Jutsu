@@ -51,6 +51,8 @@ brew install node
 #brew install postgresql
 # Framework for managing multi-language pre-commit hooks
 brew install pre-commit
+# Cloud native development platform
+brew install pulumi
 # Interpreted, interactive, object-oriented programming language
 brew install python
 # Display directories as trees (with optional color/HTML output)
