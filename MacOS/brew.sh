@@ -29,6 +29,8 @@ xcode-select --install
 
 # Install Brew Packages
 banner "Installing Homebrew Packages"
+# Official Amazon AWS command-line interface
+brew install awscli
 # Dependency manager for Cocoa projects
 brew install cocoapods
 # Easiest way to build and release mobile apps
