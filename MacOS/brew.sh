@@ -92,8 +92,8 @@ installApps()
   brew install --cask bitwarden
   # Web browser focusing on privacy
   brew install --cask brave-browser
-  # Productivity platform for tasks, docs, goals, and chat
-  brew install --cask clickup
+  # Design tool
+  brew install --cask canva
   # Tool to show live information about the batteries in various devices
   brew install --cask coconutbattery
   # Server and cloud storage browser
