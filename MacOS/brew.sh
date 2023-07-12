@@ -128,6 +128,8 @@ installApps()
   brew install --cask local
   # Microsoft Edge
   brew install --cask microsoft-edge
+  # Meet, chat, call, and collaborate in just one place
+  brew install --cask microsoft-teams
   # Oracle Java Standard Edition Development Kit
   brew install --cask oracle-jdk
   # Administration and development platform for PostgreSQL
