@@ -35,6 +35,8 @@ brew install awscli
 brew install cocoapods
 # Easiest way to build and release mobile apps
 brew install fastlane
+# Firebase command-line tools
+brew install firebase-cli
 # Distributed revision control system
 brew install git
 # Open source programming language to build simple/reliable/efficient software
@@ -42,9 +44,9 @@ brew install go
 # Open-source build automation tool based on the Groovy and Kotlin DSL
 brew install gradle
 # Kubernetes command-line interface
-brew install kubernetes-cli
+#brew install kubernetes-cli
 # Run a Kubernetes cluster locally
-brew install minikube
+#brew install minikube
 # Platform built on V8 to build network applications
 brew install node
 # Adds support for geographic objects to PostgreSQL
@@ -52,7 +54,7 @@ brew install node
 # Object-relational database system
 #brew install postgresql
 # Framework for managing multi-language pre-commit hooks
-brew install pre-commit
+#brew install pre-commit
 # Cloud native development platform
 brew install pulumi
 # Interpreted, interactive, object-oriented programming language
@@ -85,9 +87,11 @@ installApps()
   # Open-source electronics prototyping platform
   brew install --cask arduino
   # Data management tool that enables working with SQL Server
-  brew install --cask azure-data-studio
+#  brew install --cask azure-data-studio
   # Tool to flash OS images to SD cards & USB drives
   brew install --cask balenaetcher
+  # 3D creation suite
+  brew install --cask blender
   # Desktop password and login vault
   brew install --cask bitwarden
   # Web browser focusing on privacy
@@ -97,25 +101,27 @@ installApps()
   # Tool to show live information about the batteries in various devices
   brew install --cask coconutbattery
   # Server and cloud storage browser
-  brew install --cask cyberduck
+  #brew install --cask cyberduck
   # Photography workflow application and raw developer
-  brew install --cask darktable
+  #brew install --cask darktable
   # Voice and text chat software
   brew install --cask discord
   # App to build and share containerized applications and microservices
   brew install --cask docker
   # .NET SDK Developer platform
-  brew install --cask dotnet-sdk
+#  brew install --cask dotnet-sdk
   # Client for the Dropbox cloud storage service
   brew install --cask dropbox
   # Launcher for *Epic Games* games
-  brew install --cask epic-games
+#  brew install --cask epic-games
   # Figma
   brew install --cask figma
   # UI toolkit for building applications for mobile, web and desktop
-  brew install --cask flutter
+#  brew install --cask flutter
   # Fritzing
   brew install --cask fritzing
+  # Game development engine
+  brew install --cask godot
   # Free and open-source image editor
   brew install --cask gimp
   # Desktop client for GitHub repositories
@@ -125,7 +131,7 @@ installApps()
   # Vector graphics editor
   brew install --cask inkscape
   # WordPress local development tool by Flywheel
-  brew install --cask local
+#  brew install --cask local
   # Microsoft Edge
   brew install --cask microsoft-edge
   # Meet, chat, call, and collaborate in just one place
@@ -135,13 +141,13 @@ installApps()
   # Administration and development platform for PostgreSQL
   #brew install --cask pgadmin4
   # Organize your projects with customizable templates
-  brew install --cask post-haste
+#  brew install --cask post-haste
   # Collaboration platform for API development
   brew install --cask postman
   # Software sketchbook and a language for learning how to code within the context of the visual arts. 
   brew install --cask processing
   # IDE for Python programming - Community Edition
-  brew install --cask pycharm-ce
+#  brew install --cask pycharm-ce
   # Raspberry Pi Imager
   brew install --cask raspberry-pi-imager
   # Design tool that creates functional graphics
@@ -149,7 +155,7 @@ installApps()
   # Instant messaging application focusing on security
   brew install --cask signal
   # Create and share augmented reality experiences using the Facebook family of apps
-  brew install --cask spark-ar-studio
+#  brew install --cask spark-ar-studio
   # Music streaming service
   brew install --cask spotify
   # The ultimate destination for playing, discussing, and creating games.
@@ -165,7 +171,7 @@ installApps()
   # iOS target support for Unity
   brew install --cask unity-ios-support-for-editor
   # Microsoft Visual Studio Integrated development environment
-  brew install --cask visual-studio
+#  brew install --cask visual-studio
   # Open-source code editor
   brew install --cask visual-studio-code
   # Open-source cross-platform multimedia player
@@ -175,9 +181,9 @@ installApps()
   # Wireshark - Network protocol analyzer
   brew install --cask wireshark
   # Wordpress client
-  brew install --cask wordpresscom
+#  brew install --cask wordpresscom
   # Multi-platform graphical interface for official Nmap Security Scanner
-  brew install --cask zenmap
+#  brew install --cask zenmap
   # Video communication and virtual meeting platform
   brew install --cask zoom
 
