@@ -33,6 +33,8 @@ banner "Installing Homebrew Packages"
 brew install awscli
 # Dependency manager for Cocoa projects
 brew install cocoapods
+# Dependency Manager for PHP
+#brew install composer
 # Easiest way to build and release mobile apps
 brew install fastlane
 # Firebase command-line tools
@@ -49,6 +51,8 @@ brew install gradle
 #brew install minikube
 # Platform built on V8 to build network applications
 brew install node
+# General-purpose scripting language
+#brew install php
 # Adds support for geographic objects to PostgreSQL
 #brew install postgis
 # Object-relational database system
@@ -128,6 +132,8 @@ installApps()
   brew install --cask github
   # Google Chrome Web browser
   brew install --cask google-chrome
+  # Laravel and PHP development environment manager
+  brew install --cask herd
   # Vector graphics editor
   brew install --cask inkscape
   # WordPress local development tool by Flywheel
