@@ -117,7 +117,9 @@ installApps()
   # Client for the Dropbox cloud storage service
   brew install --cask dropbox
   # Launcher for *Epic Games* games
-#  brew install --cask epic-games
+  #  brew install --cask epic-games
+  # Mozilla Firefox Web browser
+  brew install --cask firefox
   # Figma
   brew install --cask figma
   # UI toolkit for building applications for mobile, web and desktop
