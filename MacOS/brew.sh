@@ -186,6 +186,8 @@ installApps()
   brew install --cask vlc
   # Remote desktop application focusing on security
   brew install --cask vnc-viewer
+  # Rust-based terminal
+  brew install --cask warp
   # Wireshark - Network protocol analyzer
   brew install --cask wireshark
   # Wordpress client
