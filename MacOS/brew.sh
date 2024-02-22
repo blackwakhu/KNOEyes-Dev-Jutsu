@@ -192,6 +192,8 @@ installApps()
   brew install --cask wireshark
   # Wordpress client
 #  brew install --cask wordpresscom
+  # Multiplayer code editor
+  brew install --cask zed
   # Multi-platform graphical interface for official Nmap Security Scanner
 #  brew install --cask zenmap
   # Video communication and virtual meeting platform
