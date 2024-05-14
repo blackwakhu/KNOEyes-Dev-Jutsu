@@ -114,6 +114,8 @@ installApps()
   brew install --cask docker
   # .NET SDK Developer platform
 #  brew install --cask dotnet-sdk
+  # Online diagram software
+  brew install --cask drawio
   # Client for the Dropbox cloud storage service
   brew install --cask dropbox
   # Launcher for *Epic Games* games
