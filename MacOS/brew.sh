@@ -88,10 +88,12 @@ installApps()
   brew install --cask android-platform-tools
   # Tools for building Android applications
   brew install --cask android-studio
+  # Allows connection to a computer remotely
+  brew install --cask anydesk
   # Open-source electronics prototyping platform
   brew install --cask arduino
   # Data management tool that enables working with SQL Server
-#  brew install --cask azure-data-studio
+  brew install --cask azure-data-studio
   # Tool to flash OS images to SD cards & USB drives
   brew install --cask balenaetcher
   # 3D creation suite
